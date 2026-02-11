@@ -1,0 +1,14 @@
+name = "kmpstudy"
+version = "0.1.0"
+defaultTargets = ["kmpstudy"]
+
+[[lean_lib]]
+name = "Kmpstudy"
+
+[[lean_exe]]
+name = "kmpstudy"
+root = "Main"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"

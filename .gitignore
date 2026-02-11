@@ -1,0 +1,18 @@
+# Lean compiled object files
+lake-build/
+
+# Lean cache and temporary files
+.olean/
+lakefile.lock
+lakefile.toml.old
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files (optional but common)
+*.swp
+*.swo
+*.vscode/
+.idea/
+*.exe

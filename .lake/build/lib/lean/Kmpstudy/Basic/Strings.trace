@@ -1,0 +1,33 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["7eca6a913a016ebe.olean"],
+  "i": "cb3e3b16cec74952.ilean",
+  "c": "883712831e7b2263.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\Cli\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\batteries\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\Qq\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\aesop\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\proofwidgets\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\importGraph\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\LeanSearchClient\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\plausible\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean;C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\lib\\lean c:\\Users\\Gabriela\\.elan\\toolchains\\leanprover--lean4---v4.27.0-rc1\\bin\\lean.exe C:\\Users\\Gabriela\\kmpstudy\\Kmpstudy\\Basic\\Strings.lean -o C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\lib\\lean\\Kmpstudy\\Basic\\Strings.olean -i C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\lib\\lean\\Kmpstudy\\Basic\\Strings.ilean -c C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\ir\\Kmpstudy\\Basic\\Strings.c --setup C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\ir\\Kmpstudy\\Basic\\Strings.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["Kmpstudy.Basic.Strings:deps",
+   [["deps",
+     [["kmpstudy/Kmpstudy:extraDep",
+       [["@kmpstudy:extraDep", "00000000000006bb"]]],
+      ["imports",
+       [["Mathlib.Data.List.Basic transitive imports (legacy)",
+         "c907fa4853ede89d"],
+        ["Mathlib.Data.List.Basic:importAllArts", "96600b598440d902"],
+        ["Mathlib.Tactic transitive imports (legacy)", "e1668ca49977ad35"],
+        ["Mathlib.Tactic:importAllArts", "6085feebacc0dce5"]]]]],
+    ["libs",
+     [["import dynlibs", "00000000000006bb"],
+      ["package external libraries", "00000000000006bb"],
+      ["module dynlibs", "00000000000006bb"],
+      ["module plugins", "00000000000006bb"]]]]],
+  ["Lean 4.27.0, commit 2fcce7258eeb6e324366bc25f9058293b04b7547",
+   "6f43b597efea5d4c"],
+  ["C:\\Users\\Gabriela\\kmpstudy\\Kmpstudy\\Basic\\Strings.lean",
+   "9f9095836bb5ebdc"],
+  ["options", "00000000000006bb"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "66c6a72a167904a5"}

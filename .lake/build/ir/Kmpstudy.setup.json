@@ -1,0 +1,9 @@
+{"plugins": [],
+ "package": "kmpstudy",
+ "options": {},
+ "name": "Kmpstudy",
+ "isModule": false,
+ "importArts":
+ {"Kmpstudy.Basic":
+  ["C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\lib\\lean\\Kmpstudy\\Basic.olean"]},
+ "dynlibs": []}

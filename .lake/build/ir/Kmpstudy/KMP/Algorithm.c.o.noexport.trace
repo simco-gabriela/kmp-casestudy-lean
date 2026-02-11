@@ -1,0 +1,18 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs": "baf2ad103eff2bad.o",
+ "log":
+ [{"message":
+   ".> c:\\Users\\Gabriela\\.elan\\toolchains\\leanprover--lean4---v4.27.0-rc1\\bin\\clang.exe -c -o C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\ir\\Kmpstudy\\KMP\\Algorithm.c.o.noexport C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\ir\\Kmpstudy\\KMP\\Algorithm.c -I c:\\Users\\Gabriela\\.elan\\toolchains\\leanprover--lean4---v4.27.0-rc1\\include -fstack-clash-protection -fwrapv -Wno-unused-command-line-argument --sysroot c:\\Users\\Gabriela\\.elan\\toolchains\\leanprover--lean4---v4.27.0-rc1 -nostdinc -isystem c:\\Users\\Gabriela\\.elan\\toolchains\\leanprover--lean4---v4.27.0-rc1/include/clang -O3 -DNDEBUG",
+   "level": "trace"}],
+ "inputs":
+ [["Kmpstudy.KMP.Algorithm:c",
+   [["C:\\Users\\Gabriela\\kmpstudy\\.lake\\build\\ir\\Kmpstudy\\KMP\\Algorithm.c",
+     "19688126746138c2"],
+    ["Lean 4.27.0, commit 2fcce7258eeb6e324366bc25f9058293b04b7547",
+     "6f43b597efea5d4c"]]],
+  ["Lean 4.27.0, commit 2fcce7258eeb6e324366bc25f9058293b04b7547",
+   "6f43b597efea5d4c"],
+  ["traceArgs: #[-O3, -DNDEBUG]", "6c7bb0eeabd8f74a"],
+  ["x86_64-w64-windows-gnu", "360db333d006d911"]],
+ "depHash": "bdcafbc44f426242"}
